@@ -7,7 +7,7 @@ After forking this Repository, update this README by adding your name to the lis
 
 ## Names of contributors 
 - Obed Ehoneah
-- James Nzioka
+- James Nzioka 
 - Biniyam Ambachew
 - leena yaseen
 
